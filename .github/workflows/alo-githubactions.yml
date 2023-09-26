@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Implime OLA
-        run: ECHO "OLÁ"
+        run: echo "OLÁ"
       - name: Imprime TCHAU
-        run: ECHO "TCHAU"
+        run: echo "TCHAU"
